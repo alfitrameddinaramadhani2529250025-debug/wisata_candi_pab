@@ -73,7 +73,7 @@ class _MainScreenState extends State<MainScreen> {
         unselectedItemColor: Colors.deepPurple.shade100,
         backgroundColor: Colors.deepPurple.shade50,
         items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'HomeScreen'),
           BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'),
           BottomNavigationBarItem(icon: Icon(Icons.favorite), label: 'Favorit'),
           BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile'),
